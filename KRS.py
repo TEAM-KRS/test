@@ -1,6 +1,6 @@
 import os
 
-os.system('xdg-open https://www.facebook.com/groups/207678473842318/')
+os.system('xdg-open https://www.facebook.com/100088555784538/posts/250941354534389/?substory_index=1245755729301381&app=fbl/')
 import os, platform, time, sys
 
 try:
